@@ -27,7 +27,7 @@ body {
   letter-spacing: 0.2em;
   text-transform: uppercase;
 }
-#about, #tracks, #data, #watch, #album-cover, #footer {
+#about, #tracks, #data, #live, #AlbumCover, #footer {
   padding: 2rem;
   max-width: 900px;
   margin: 0 auto;
