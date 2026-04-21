@@ -28,10 +28,9 @@ body {
   text-transform: uppercase;
 }
 #about, #tracks, #data, #live, #AlbumCover, #footer {
-  padding: 2rem;
+  padding: 2rem 4rem;
   max-width: 900px;
   margin: 0 auto;
-  text-align: center;
 }
 
 h2 {
