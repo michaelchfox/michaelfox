@@ -1,0 +1,50 @@
+body {
+  background-color: #f5e6c8;
+  font-family: Georgia, serif;
+  color: #3b2a1a;
+  margin: 0;
+  padding: 0;
+}
+#navbar {
+  background-color: #c1440e;
+  padding: 1rem 2rem;
+}
+
+#navbar a {
+  color: #f5e6c8;
+  text-decoration: none;
+  margin-right: 1.5rem;
+}
+#hero {
+  background-color: #c1440e;
+  color: #f5e6c8;
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+#subtitle {
+  font-size: 0.9rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+#about, #tracks, #data, #watch, #album-cover, #footer {
+  padding: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h2 {
+  color: #c1440e;
+  font-family: Georgia, serif;
+}
+
+#footer {
+  text-align: center;
+  color: #3b2a1a;
+  border-top: 2px solid #c1440e;
+  margin-top: 2rem;
+}
+
+#footer a {
+  color: #c1440e;
+}
